@@ -41,11 +41,6 @@ Avoids infinite loops
 
 Clean and readable Python code
 
-📂 Project Files
-universal_solver.py   # final working solution
-screenshots/          # proof of completion for all tasks
-README.md             # project documentation
-
 🖼 Screenshots
 
 Here are the challenge completions:
