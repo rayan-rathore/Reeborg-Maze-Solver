@@ -23,6 +23,55 @@ My maze algorithm actually passes all the hurdle challenges too.
 
 So instead of multiple small scripts, this repository contains one general-purpose navigation algorithm.
 
+🚀 How to Use
+
+Follow these steps to run the maze + hurdle solver in Reeborg’s World:
+
+1. Open Reeborg’s World
+
+Go to:
+🔗 https://reeborg.ca/reeborg.html
+
+2. Select a World
+
+You can choose any of these compatible challenges:
+
+Hurdle 1
+
+Hurdle 2
+
+Hurdle 3
+
+Hurdle 4
+
+Maze
+
+3. Open the Editor
+
+Click “Edit Python” to open the code editor panel.
+
+4. Copy the Code
+
+Open the file maze_hurdle_solver.py from this repository
+Copy everything and paste it into Reeborg’s editor.
+
+5. Run the Program
+
+Press:
+▶ Run
+
+Reeborg will automatically:
+
+jump over hurdles
+
+navigate walls
+
+follow the right-hand rule
+
+find the goal
+
+handle any maze-like obstacle course
+
 🚀 Features
 
 Works on both maze and hurdle challenges
