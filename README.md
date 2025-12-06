@@ -1,4 +1,4 @@
-🧠 Reeborg Universal Maze & Hurdle Solver
+🧠 Reeborg Maze & Hurdle Solver
 
 A single Python algorithm that solves some Reeborg challenges:
 
